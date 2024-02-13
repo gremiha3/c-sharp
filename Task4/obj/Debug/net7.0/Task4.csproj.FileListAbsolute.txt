@@ -1,0 +1,15 @@
+/home/user/c#/Lesson1/Task4/bin/Debug/net7.0/Task4
+/home/user/c#/Lesson1/Task4/bin/Debug/net7.0/Task4.deps.json
+/home/user/c#/Lesson1/Task4/bin/Debug/net7.0/Task4.runtimeconfig.json
+/home/user/c#/Lesson1/Task4/bin/Debug/net7.0/Task4.dll
+/home/user/c#/Lesson1/Task4/bin/Debug/net7.0/Task4.pdb
+/home/user/c#/Lesson1/Task4/obj/Debug/net7.0/Task4.csproj.AssemblyReference.cache
+/home/user/c#/Lesson1/Task4/obj/Debug/net7.0/Task4.GeneratedMSBuildEditorConfig.editorconfig
+/home/user/c#/Lesson1/Task4/obj/Debug/net7.0/Task4.AssemblyInfoInputs.cache
+/home/user/c#/Lesson1/Task4/obj/Debug/net7.0/Task4.AssemblyInfo.cs
+/home/user/c#/Lesson1/Task4/obj/Debug/net7.0/Task4.csproj.CoreCompileInputs.cache
+/home/user/c#/Lesson1/Task4/obj/Debug/net7.0/Task4.dll
+/home/user/c#/Lesson1/Task4/obj/Debug/net7.0/refint/Task4.dll
+/home/user/c#/Lesson1/Task4/obj/Debug/net7.0/Task4.pdb
+/home/user/c#/Lesson1/Task4/obj/Debug/net7.0/Task4.genruntimeconfig.cache
+/home/user/c#/Lesson1/Task4/obj/Debug/net7.0/ref/Task4.dll
