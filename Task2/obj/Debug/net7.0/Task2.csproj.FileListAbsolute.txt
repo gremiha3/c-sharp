@@ -1,0 +1,15 @@
+/home/user/c#/Lesson1/Task2/bin/Debug/net7.0/Task2
+/home/user/c#/Lesson1/Task2/bin/Debug/net7.0/Task2.deps.json
+/home/user/c#/Lesson1/Task2/bin/Debug/net7.0/Task2.runtimeconfig.json
+/home/user/c#/Lesson1/Task2/bin/Debug/net7.0/Task2.dll
+/home/user/c#/Lesson1/Task2/bin/Debug/net7.0/Task2.pdb
+/home/user/c#/Lesson1/Task2/obj/Debug/net7.0/Task2.csproj.AssemblyReference.cache
+/home/user/c#/Lesson1/Task2/obj/Debug/net7.0/Task2.GeneratedMSBuildEditorConfig.editorconfig
+/home/user/c#/Lesson1/Task2/obj/Debug/net7.0/Task2.AssemblyInfoInputs.cache
+/home/user/c#/Lesson1/Task2/obj/Debug/net7.0/Task2.AssemblyInfo.cs
+/home/user/c#/Lesson1/Task2/obj/Debug/net7.0/Task2.csproj.CoreCompileInputs.cache
+/home/user/c#/Lesson1/Task2/obj/Debug/net7.0/Task2.dll
+/home/user/c#/Lesson1/Task2/obj/Debug/net7.0/refint/Task2.dll
+/home/user/c#/Lesson1/Task2/obj/Debug/net7.0/Task2.pdb
+/home/user/c#/Lesson1/Task2/obj/Debug/net7.0/Task2.genruntimeconfig.cache
+/home/user/c#/Lesson1/Task2/obj/Debug/net7.0/ref/Task2.dll
